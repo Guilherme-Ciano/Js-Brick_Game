@@ -1,0 +1,24 @@
+* { 
+    padding: 0; 
+    margin: 0; 
+}
+
+body {
+    background: url("https://i.pinimg.com/originals/ab/07/17/ab0717888f9956c65acb2b908fac187b.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+canvas { 
+    border: 3px solid white;
+    padding: 1rem;
+    border-radius: 8px;
+    background: #0e0e0e67;
+    display: block;
+    margin: 0 auto;
+}
